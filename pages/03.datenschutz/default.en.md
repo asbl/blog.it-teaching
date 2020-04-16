@@ -2,7 +2,7 @@
 title: Privacy policy
 author: a.sbl
 type: page
-date: 2018-04-09T19:44:15+00:00
+date: 09-04-2018
 
 ---
 

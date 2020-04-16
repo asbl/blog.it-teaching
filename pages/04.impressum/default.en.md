@@ -2,7 +2,7 @@
 title: Imprint
 author: a.sbl
 type: page
-date: 2018-02-21T13:21:27+00:00
+date: 21-02-2018
 
 ---
 Andreas Siebel

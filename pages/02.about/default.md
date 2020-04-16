@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2019-08-08T12:02:07+02:00
+date: 08-08-2019
 draft: true
 ---
 

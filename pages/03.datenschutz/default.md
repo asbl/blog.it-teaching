@@ -2,7 +2,7 @@
 title: Datenschutzerklärung
 author: a.sbl
 type: page
-date: 2019-10-02T19:44:15+00:00
+date: 02-10-2019
 ---
 
 Datenschutzerklärung
