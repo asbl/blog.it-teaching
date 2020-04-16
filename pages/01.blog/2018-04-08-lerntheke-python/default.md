@@ -15,13 +15,11 @@ categories:
 ---
 Die Lerntheke dient dem Trainieren für die erste Klausur. Sie ist sowohl Offline ausdruckbar. Dank Inspiration von J[an-Martin Klinge][1] ist sie auch Mobil mit dem Tablet nutzbar. Auf den einzelnen Karten befinden sich dann interaktive Links zu den Hilfekarten. Die Lerntheke steht unter CC0-Lizenz, d.h. ihr könnt damit anfangen was ihr möchtet.
 
-&nbsp;
-
 Hinweis: Da der Abschnittszoom nicht in der Online-Variante von Office funktioniert, müsst ihr die Datei herunterladen. Ich werde die Dateien noch zu einem anderen Cloud-Anbieter verschieben, damit diese ärgerliche Einschränkung nicht weiter irritiert.
 
 Hier der Download:
 
-  * [Lerntheke Python (Schülerversion)][2] &#8211; Lerntheke mit Übungsaufgaben (v2) ([pdf Version][3], [Quelldatei][4]) #CC0 Lizenz
+  * [Lerntheke Python](https://cloud.it-teaching.de/index.php/s/994DCcfxtfgEnsR)
 
 &nbsp;
 

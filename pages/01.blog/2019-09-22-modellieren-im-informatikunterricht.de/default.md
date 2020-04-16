@@ -67,7 +67,7 @@ Auch wenn das Wort Modellierung in dieser Definition nicht auftaucht, findet man
 
 Die Ähnlichkeit zwischen dem englischen Computational-Thinking Ansatz und Modellierung in der deutschen Fachdidaktik zeigt sich auch an der bekannten Darstellung aus [Schubert/Schwill](https://www.springer.com/de/book/9783827426529):
 
-![Ideen](/ideen.png)
+![Ideen](ideen.png)
 (Grafik nach Schubert/Schwill)
 
 In der Darstellung werden die fundamentalen Ideen um den Modellbegriff angeordnet und die Top-Level Ideen "Strukturierte Zerlegung", "Sprache" und "Algorithmisierung" sind drei unterschiedliche Zugänge zum Modellieren. Diese Darstellung unterscheidet sich von Dennings Idee insofern, dass die Zugänge "Simulieren" und "Entwerfen" in Dennings Definition zusammengefasst wurden.
@@ -128,7 +128,7 @@ Anmerkung: Natürlich könnte man programmieren auch als implementieren definier
 
 ### Modelle in der Softwareentwicklung am Beispiel des Wasserfallmodells
 
-![Wasserfall-Modell](/wasserfall.png)
+![Wasserfall-Modell](wasserfall.png)
 
 Man sieht hier das Modell der Softwarentwicklung nach dem Wasserfall-Modell. Erst werden Anforderungen aufgestellt, anschließend ein informatisches Modell aufgestellt, welches implementiert, getestet und verifiziert und letztendlich gewartet wird. 
 
@@ -193,7 +193,7 @@ Daher gefällt mir auch sehr gut die Formulierung, die in englischen Lehrplänen
 
 Ich kann nicht über Modellierung sprechen, ohne auch den Modellierungskreislauf nach [Hubert 2004](https://www.researchgate.net/publication/251201036_Essential_Ingredients_of_Literacy_in_Informatics) aufzugreifen
 
-![Modellierungskreislauf nach Humbert](/humbert.png)
+![Modellierungskreislauf nach Humbert](humbert.png)
 
 Der Modellierungskreislauf ähnelt dem Modellierungskreislauf der aus der Mathematik-Fachdidaktik bekannt ist und skizziert, wie ausgehend von Phänomenen Aspekte der wirklichen Welt in informatische Modelle übersetzt und Ergebnisse rückübersetzt werden.
 
