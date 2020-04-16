@@ -3,7 +3,7 @@ title: Den Laptop kabellos auf den VGA-Beamer streamen
 author: a.sbl
 type: post
 date: 25-02-2018
-url: /2018/02/25/laptop-kabellos-auf-den-vga-beamer-streamen/
+
 custom_total_hits:
   - 000000196
 categories:

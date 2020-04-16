@@ -3,7 +3,7 @@ title: Python als Programmiersprache im Unterricht
 author: a.sbl
 type: post
 date: 21-02-2018
-url: /2018/02/21/python-als-programmiersprache-im-unterricht/
+
 custom_total_hits:
   - 000000269
 categories:
@@ -67,7 +67,7 @@ Was spricht noch für Python:
  [2]: http://www.java-online.ch/gamegrid/index.php
  [3]: https://www.swisseduc.ch/informatik/karatojava/javakara/
  [4]: http://www.java-hamster-modell.de/simulator.html
- [5]: https://pythonconquerstheuniverse.wordpress.com/2009/10/03/python-java-a-side-by-side-comparison/
+ [5]: https://pythonconquerstheuniverse.wordpress.com/03-10-2009
  [6]: http://interactivepython.org/runestone/static/thinkcspy/GeneralIntro/Algorithms.html
  [7]: https://www.inf-schule.de/content/14-lehrkraefte/3-umsetzunglehrplaene/2-grundfach/2-objectsfirstjava/WarumJavaPython.pdf
  [8]: https://www.codeproject.com/Articles/580877/Is-Object-Oriented-Programming-Overrated-Another-V
@@ -75,5 +75,5 @@ Was spricht noch für Python:
  [10]: http://wiki.c2.com/?ArgumentsAgainstOop
  [11]: https://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-introductory-teaching-language-at-top-u-s-universities/fulltext
  [12]: https://www.tiobe.com/tiobe-index/
- [13]: http://redmonk.com/sogrady/2017/06/08/language-rankings-6-17/
+ [13]: http://redmonk.com/sogrady/08-06-2017
  [14]: http://pypl.github.io/PYPL.html

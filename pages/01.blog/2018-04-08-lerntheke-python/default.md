@@ -3,7 +3,7 @@ title: Lerntheke Python
 author: a.sbl
 type: post
 date: 08-04-2018
-url: /2018/04/08/lerntheke-python/
+
 custom_total_hits:
   - 000000230
 categories:

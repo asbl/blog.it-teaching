@@ -3,7 +3,7 @@ title: Shortcuts im Word-Formeleditor
 author: a.sbl
 type: post
 date: 30-07-2017
-url: /2017/07/30/shortcuts-im-word-formeleditor/
+
 custom_total_hits:
   - 000000415
 categories:

@@ -3,7 +3,7 @@ title: Boolr
 author: a.sbl
 type: post
 date: 11-04-2019
-url: /2019/04/11/boolr/
+
 custom_total_hits:
   - 000000119
 categories:

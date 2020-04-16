@@ -11,7 +11,7 @@ privacy statement
 
 ### General information
 
- This blog is hosted at <a href="https://uberspace.de/">Uberspace</a>. When you visit this blog, some data is automatically transferred to the web server and stored there. This is technically necessary for the display of this website and is limited to the necessary extent. In particular, this involves the following information: the referrer URL (the website from which you came) / the IP address of the device with which you access the blog / the browser used / time and date / the operating system used. This information is used to be able to offer this blog at all. It cannot be associated with any particular individual and is not merged with any personally identifiable information. A purely statistical evaluation is reserved. As soon as the information is no longer needed, it is deleted or anonymised.
+ This blog is hosted at <a href="https://uberspace.de/">Uberspace</a>. When you visit this blog, some data is automatically transferred to the web server and stored there. This is technically necessary for the display of this website and is limited to the necessary extent. In particular, this involves the following information: the referrer 
 
 ### Comments
 

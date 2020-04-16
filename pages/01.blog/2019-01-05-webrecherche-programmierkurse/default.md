@@ -3,7 +3,7 @@ title: 'Webrecherche: Ressourcen für den Informatikunterricht'
 author: a.sbl
 type: post
 date: 05-01-2019
-url: /2019/01/05/webrecherche-programmierkurse/
+
 custom_total_hits:
   - 000000203
 categories:

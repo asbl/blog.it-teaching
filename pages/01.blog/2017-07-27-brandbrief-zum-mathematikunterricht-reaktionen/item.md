@@ -3,7 +3,7 @@ title: Brandbrief zum Mathematikunterricht – Reaktionen
 author: a.sbl
 type: post
 date: 27-07-2017
-url: /2017/07/27/brandbrief-zum-mathematikunterricht-reaktionen/
+
 custom_total_hits:
   - 000000200
 categories:
@@ -37,7 +37,7 @@ categories:
   
   <ul>
     <li>
-      <a href="http://www.danisch.de/blog/2017/03/23/gurken-mathematik-und-so/">http://www.danisch.de/blog/2017/03/23/gurken-mathematik-und-so/</a>
+      <a href="http://www.danisch.de/blog/23-03-2017
     </li>
     <li>
       <a href="http://www.tagesspiegel.de/berlin/brandbrief-zum-mathematikunterricht-deutschland-verrechnet-sich/19558664.html">http://www.tagesspiegel.de/berlin/brandbrief-zum-mathematikunterricht-deutschland-verrechnet-sich/19558664.html</a>
@@ -59,7 +59,7 @@ categories:
   
   <ul>
     <li>
-      <a href="https://www.jmwiarda.de/2017/03/23/bitte-an-die-fakten-halten">https://www.jmwiarda.de/2017/03/23/bitte-an-die-fakten-halten</a>
+      <a href="https://www.jmwiarda.de/23-03-2017
     </li>
     <li>
       <a href="http://www.tagesspiegel.de/downloads/19590132/1/mathematiker-distanzieren-sich-vom-mathematiker-brandbrief.pdf">http://www.tagesspiegel.de/downloads/19590132/1/mathematiker-distanzieren-sich-vom-mathematiker-brandbrief.pdf</a>

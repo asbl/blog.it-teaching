@@ -3,7 +3,7 @@ title: Miniworldmaker
 author: a.sbl
 type: post
 date: 24-03-2019
-url: /2019/03/24/miniworldmaker/
+
 custom_total_hits:
   - 000000174
 categories:

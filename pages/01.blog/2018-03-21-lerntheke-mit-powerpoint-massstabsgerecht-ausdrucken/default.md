@@ -3,7 +3,7 @@ title: Lerntheke mit Powerpoint maßstabsgerecht ausdrucken
 author: a.sbl
 type: post
 date: 21-03-2018
-url: /2018/03/21/lerntheke-mit-powerpoint-massstabsgerecht-ausdrucken/
+
 custom_total_hits:
   - 000000573
 categories:

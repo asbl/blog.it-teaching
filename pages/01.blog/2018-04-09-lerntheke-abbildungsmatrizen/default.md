@@ -3,7 +3,7 @@ title: Lerntheke Abbildungsmatrizen
 author: a.sbl
 type: post
 date: 09-04-2018
-url: /2018/04/09/lerntheke-abbildungsmatrizen/
+
 custom_total_hits:
   - 000000303
 categories:

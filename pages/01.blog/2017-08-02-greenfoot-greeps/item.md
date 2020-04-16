@@ -3,7 +3,7 @@ title: Greenfoot / Greeps
 author: a.sbl
 type: post
 date: 02-08-2017
-url: /2017/08/02/greenfoot-greeps/
+
 custom_total_hits:
   - 000000224
 categories:

@@ -3,7 +3,7 @@ title: Mehrwert
 author: a.sbl
 type: post
 date: 09-04-2019
-url: /2019/04/09/mehrwert/
+
 custom_total_hits:
   - 000000196
 categories:
@@ -95,7 +95,7 @@ _&#8220;Der Mehrwert des Flugzeugs besteht nicht darin,
 schneller zum Bäcker zu kommen.  
 Der Mehrwert digitaler Medien besteht nicht darin,  
 alte Ziele schneller zu erreichen.&#8221;_  
-<https://axelkrommer.com/2015/08/04/welchen-mehrwert-haben-digitale-medien-fuer-das-schulische-lernen/>
+<https://axelkrommer.com/04-08-2015
 
 Hier sieht man nämlich die Bedeutung des Ressourcen-Faktors: In einer idealen Welt stehen in meinem Klassenraum mehrere 4K-Beamer oder Boards, ein Tablet für jeden Schüler mit Stift, eine Ladestation für die Tablets, eine Dokumentenkamera, ein Green-Screen, Augmented Reality Brillen, eine High-Tech Sound-Anlage und vieles mehr. Und wo sollen die Medien. Je mehr digitale Medien ich im Raum habe, umso teurer werden aber Anschaffungs- und Folgekosten. Wenn ich aber nicht nur entscheiden muss, ob ich digitale Medien im Klassenraum verankere, sondern auch wie viele und zu welchen Kosten, dann trifft Pädagogik auf Realität. Dann müssen Entscheidungen getroffen werden und Aspekte gegeneinander abgewogen werden (Im Sinne von: Was halte ich für wertvoller, was hat für mich mehr wert?). 
 
@@ -131,7 +131,7 @@ Meine Entscheidende Kritik an Krommers Position ist zusammengefasst diese: Man k
 
 **Hinweis**: Dieser Beitrag wird noch irgendwann fortgeführt werden, damit ich auch die Ausführungen über den Paradigmenwechsel und auf das Fazit eingehen kann. Aus Zeitgründen habe ich ihn aber auch schon in dieser unfertigen Version veröffentlicht, und werde ihn fertigstellen, wenn meine Gedanken auch zu dem letzten Teil klarer sind.
 
- [1]: https://axelkrommer.com/2018/09/05/wider-den-mehrwert-oder-argumente-gegen-einen-ueberfluessigen-begriff/
- [2]: https://halbtagsblog.de/2019/03/20/5-minuten-schulleitung-digitaler-wandel-in-der-schulpraxis/﻿
- [3]: https://axelkrommer.com/2018/09/21/mit-comics-gegen-manfred-spitzer-oder-warum-wir-donald-duck-brauchen/
- [4]: https://axelkrommer.com/2015/05/23/lesesucht-und-onlinesucht/
+ [1]: https://axelkrommer.com/05-09-2018
+ [2]: https://halbtagsblog.de/20-03-2019
+ [3]: https://axelkrommer.com/21-09-2018
+ [4]: https://axelkrommer.com/23-05-2015

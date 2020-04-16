@@ -3,7 +3,7 @@ title: Digitale Medien im Unterricht – Beitrag in der FAZ
 author: a.sbl
 type: post
 date: 24-08-2018
-url: /2018/08/24/335/
+
 custom_total_hits:
   - 000000330
 categories:

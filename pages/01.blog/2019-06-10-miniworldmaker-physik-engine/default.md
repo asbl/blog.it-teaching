@@ -3,7 +3,7 @@ title: Miniworldmaker – Physik Engine
 author: a.sbl
 type: post
 date: 10-06-2019
-url: /2019/06/10/miniworldmaker-physik-engine/
+
 enclosure:
   - |
     |

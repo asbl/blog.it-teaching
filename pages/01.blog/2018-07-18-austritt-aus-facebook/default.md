@@ -3,7 +3,7 @@ title: Austritt aus Facebook
 author: a.sbl
 type: post
 date: 18-07-2018
-url: /2018/07/18/austritt-aus-facebook/
+
 custom_total_hits:
   - 000000379
 categories:

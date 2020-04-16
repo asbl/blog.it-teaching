@@ -3,7 +3,7 @@ title: Dieses Blog
 author: a.sbl
 type: post
 date: 06-01-2019
-url: /2019/01/06/dieses-blog/
+
 custom_total_hits:
   - 000000243
 categories:

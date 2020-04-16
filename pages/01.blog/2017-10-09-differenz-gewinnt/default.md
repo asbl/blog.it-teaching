@@ -3,7 +3,7 @@ title: Differenz gewinnt
 author: a.sbl
 type: post
 date: 09-10-2017
-url: /2017/10/09/differenz-gewinnt/
+
 custom_total_hits:
   - 000000260
 categories:

@@ -3,7 +3,7 @@ title: Gamegrid / Gamegridcards
 author: a.sbl
 type: post
 date: 10-08-2017
-url: /2017/08/10/gamegrid-gamegridcards/
+
 custom_total_hits:
   - 000000246
 categories:

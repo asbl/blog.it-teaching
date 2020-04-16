@@ -3,7 +3,7 @@ title: Tabletklassen – Gesammelte Infos
 author: a.sbl
 type: post
 date: 09-10-2017
-url: /2017/10/09/tabletklassen-gesammelte-infos/
+
 featured_image: /wp-content/uploads/2017/10/tablet-1-825x510.png
 custom_total_hits:
   - 000000287

@@ -10,7 +10,7 @@ Datenschutzerklärung
 
 ### Generelle Informationen
 
- Dieses Blog wird bei <a href="https://uberspace.de/">Uberspace</a> gehostet. Wenn Sie dieses Blog besuchen, werden automatisch einige Daten an den Webserver übertragen und dort gespeichert. Dies ist zur Anzeige dieser Webseite technisch erforderlich und beschränkt sich auf den dafür notwendigen Umfang. Es handelt sich insbesondere um folgende Informationen: die Referrer-URL (die Webseite, von der Sie kommen) / die IP-Adresse des Gerätes, mit dem sie auf den Blog zugreifen / den verwendeten Browser / Uhrzeit und Datum / das verwendete Betriebssystem. Diese Informationen dienen dazu, dieses Blog überhaupt anbieten zu können. Sie können keinen bestimmten Personen zugeordnet werden und werden nicht mit personenbezogenen Informationen zusammengeführt. Eine rein statistische Auswertung bleibt vorbehalten. Sobald die Informationen nicht mehr benötigt werden, werden sie gelöscht oder anonymisiert.
+ Dieses Blog wird bei <a href="https://uberspace.de/">Uberspace</a> gehostet. Wenn Sie dieses Blog besuchen, werden automatisch einige Daten an den Webserver übertragen und dort gespeichert. Dies ist zur Anzeige dieser Webseite technisch erforderlich und beschränkt sich auf den dafür notwendigen Umfang. Es handelt sich insbesondere um folgende Informationen: die Referrer-
 
  Den Vertrag zur Auftragsverarbeitung mit Uberspace finden sie [hier](/av-vertrag.pdf)
 

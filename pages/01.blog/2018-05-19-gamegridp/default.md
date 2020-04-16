@@ -3,7 +3,7 @@ title: GameGridP
 author: a.sbl
 type: post
 date: 19-05-2018
-url: /2018/05/19/gamegridp/
+
 custom_total_hits:
   - 000000423
 categories:

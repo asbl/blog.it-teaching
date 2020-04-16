@@ -3,7 +3,7 @@ title: Gamegrid für Python
 author: a.sbl
 type: post
 date: 15-04-2018
-url: /2018/04/15/gamegrid-fuer-python/
+
 custom_total_hits:
   - 000000705
 categories:

@@ -3,7 +3,7 @@ title: Das neue Prunkstück unserer Fachschaft
 author: a.sbl
 type: post
 date: 25-02-2018
-url: /2018/02/25/das-neue-prunkstueck-unserer-fachschaft/
+
 custom_total_hits:
   - 000000267
 categories:

@@ -3,7 +3,7 @@ title: Künstliche Intelligenz
 author: a.sbl
 type: post
 date: 08-01-2019
-url: /2019/01/08/kuenstliche-intelligenz/
+
 custom_total_hits:
   - 000000210
 categories:

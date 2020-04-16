@@ -4,13 +4,13 @@ author: a.sbl
 type: post
 date: 03-08-2017
 draft: true
-url: /?p=49
+
 categories:
   - Informatikunterricht
   - Tools
 
 ---
-Greenfoot war ich aufgrund der Bugs leid ( <https://itteaching.wordpress.com/2017/04/25/greeps/>), der Java-Editor (<http://javaeditor.org/doku.php>) hat mich im ersten Durchlauf auch noch nicht vollends überzeugt, läuft außerdem nur unter Windows, was meiner Meinung nach ein Riesen-Nachteil ist (Hausaufgaben? Nur auf Windows-Rechnern möglich).
+Greenfoot war ich aufgrund der Bugs leid ( <https://itteaching.wordpress.com/25-04-2017
 
 Mein neuester Versuch: Eclipse+Window-Builder.
 

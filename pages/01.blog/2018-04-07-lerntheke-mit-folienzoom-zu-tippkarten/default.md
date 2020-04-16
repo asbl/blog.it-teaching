@@ -3,7 +3,7 @@ title: Lerntheke mit Folienzoom zu Tippkarten
 author: a.sbl
 type: post
 date: 07-04-2018
-url: /2018/04/07/lerntheke-mit-folienzoom-zu-tippkarten/
+
 custom_total_hits:
   - 000000322
 categories:

@@ -3,7 +3,7 @@ title: Tinkercad
 author: a.sbl
 type: post
 date: 27-07-2017
-url: /2017/07/27/tinkercad/
+
 custom_total_hits:
   - 000000214
 categories:

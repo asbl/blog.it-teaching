@@ -3,7 +3,7 @@ title: Herkunft Biberwettbewerb
 author: a.sbl
 type: post
 date: 09-10-2017
-url: /2017/10/09/herkunft-biberwettbewerb/
+
 custom_total_hits:
   - 000000216
 categories:

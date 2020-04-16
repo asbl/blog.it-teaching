@@ -3,7 +3,7 @@ title: Miniworldmaker – First Lesson
 author: a.sbl
 type: post
 date: 04-05-2019
-url: /2019/05/04/miniworldmaker-first-lesson/
+
 custom_total_hits:
   - 000000069
 categories:

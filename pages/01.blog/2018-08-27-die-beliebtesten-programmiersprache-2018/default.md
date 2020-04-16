@@ -3,7 +3,7 @@ title: Die beliebtesten Programmiersprache 2018
 author: a.sbl
 type: post
 date: 27-08-2018
-url: /2018/08/27/die-beliebtesten-programmiersprache-2018/
+
 custom_total_hits:
   - 000001142
 categories:
@@ -35,5 +35,5 @@ Hier eine kleine Übersicht über die beliebtesten Sprachen der verschiedenen Sp
   * PHP 8%
 
  [1]: https://www.tiobe.com/tiobe-index/
- [2]: http://Redmonk%20Index: https://redmonk.com/sogrady/2018/08/10/language-rankings-6-18/
+ [2]: http://Redmonk%20Index: https://redmonk.com/sogrady/10-08-2018
  [3]: https://pypl.github.io/PYPL.html

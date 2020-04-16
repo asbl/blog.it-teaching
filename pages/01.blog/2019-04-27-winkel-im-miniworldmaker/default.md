@@ -3,7 +3,7 @@ title: Winkel im Miniworldmaker
 author: a.sbl
 type: post
 date: 27-04-2019
-url: /2019/04/27/winkel-im-miniworldmaker/
+
 custom_total_hits:
   - 000000107
 categories:

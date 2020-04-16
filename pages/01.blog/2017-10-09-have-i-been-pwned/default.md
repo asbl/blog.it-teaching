@@ -3,7 +3,7 @@ title: Have I been pwned?
 author: a.sbl
 type: post
 date: 09-10-2017
-url: /2017/10/09/have-i-been-pwned/
+
 custom_total_hits:
   - 000000196
 categories:
@@ -27,4 +27,4 @@ categories:
   </p>
 </div>
 
- [1]: https://twitter.com/intent/tweet?text=Have%20I%20been%20pwned%3F%20%C2%BB&hashtags=IT,IT-Sicherheit&url=https://it-teaching.de/blog/have-i-been-pwned/ "Tweet 'Have I been pwned?'"
+ [1]: https://twitter.com/intent/tweet?text=Have%20I%20been%20pwned%3F%20%C2%BB&hashtags=IT,IT-Sicherheit&

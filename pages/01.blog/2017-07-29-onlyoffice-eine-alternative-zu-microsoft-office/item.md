@@ -3,7 +3,7 @@ title: Onlyoffice – Eine Alternative zu Microsoft Office?
 author: a.sbl
 type: post
 date: 29-07-2017
-url: /2017/07/29/onlyoffice-eine-alternative-zu-microsoft-office/
+
 custom_total_hits:
   - 000000232
 categories:

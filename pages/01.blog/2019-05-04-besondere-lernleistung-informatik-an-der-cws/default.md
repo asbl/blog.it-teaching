@@ -3,7 +3,7 @@ title: Besondere Lernleistung Informatik an der CWS
 author: a.sbl
 type: post
 date: 04-05-2019
-url: /2019/05/04/besondere-lernleistung-informatik-an-der-cws/
+
 custom_total_hits:
   - 000000186
 categories:

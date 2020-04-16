@@ -3,7 +3,7 @@ title: Zehn mal die Zehn
 author: a.sbl
 type: post
 date: 10-01-2019
-url: /2019/01/10/zehn-mal-die-zehn/
+
 custom_total_hits:
   - 000000264
 categories:

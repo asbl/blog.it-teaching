@@ -3,7 +3,7 @@ title: Werbung in der Schule
 author: a.sbl
 type: post
 date: 17-02-2019
-url: /2019/02/17/werbung-in-der-schule/
+
 custom_total_hits:
   - 000000163
 categories:

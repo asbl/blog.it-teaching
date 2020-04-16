@@ -3,7 +3,7 @@ title: Text-Adventures mit Python
 author: a.sbl
 type: post
 date: 20-03-2018
-url: /2018/03/20/text-adventures-mit-python/
+
 custom_total_hits:
   - 000000222
 categories:

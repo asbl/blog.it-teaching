@@ -3,7 +3,7 @@ title: Der MIT-App Inventor
 author: a.sbl
 type: post
 date: 01-08-2017
-url: /2017/08/01/der-mit-app-inventor/
+
 custom_total_hits:
   - 000000258
 categories:
@@ -21,4 +21,4 @@ Ein paar Details zur Umsetzung:
 
 Ich habe nicht die App AICompanion verwendet, sondern die Schüler haben fertig programmierte Apps direkt per QR-Code auf ihr Handy aufgeladen. Daher konnte ich mit meinem Handy ein eigenes WLAN aufspannen. Da man für die Entwicklung Google-Accounts benutzt, habe ich vorher einige anonymisierte Accounts erstellt. Allerdings habe ich auch gelernt, dass ein WLAN Hotspot, den man mit seinem Handy einrichtet, nicht mehr als ein Dutzend Besucher zulässt.
 
- [1]: https://it-teaching.de/blog/content/images/2017/07/12-camera.gif
+ [1]: https://it-teaching.de/blog/content/images/12-07-2017

@@ -3,7 +3,7 @@ title: Online-Kurse
 author: a.sbl
 type: post
 date: 13-02-2019
-url: /2019/02/13/online-kurse/
+
 custom_total_hits:
   - 000000130
 categories:

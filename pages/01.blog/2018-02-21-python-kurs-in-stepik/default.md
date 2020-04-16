@@ -3,7 +3,7 @@ title: Interaktiver Python Online Kurs (Stepik)
 author: a.sbl
 type: post
 date: 21-02-2018
-url: /2018/02/21/python-kurs-in-stepik/
+
 custom_total_hits:
   - 000000258
 categories:

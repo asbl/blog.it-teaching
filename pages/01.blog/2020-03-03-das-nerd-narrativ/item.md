@@ -12,7 +12,7 @@ tags:
   - Theorie
 ---
 
-Philippe Wampfler schreibt auf seinem Blog vom ["Nerd-Narrativ"](https://schulesocialmedia.com/2020/03/03/das-nerd-narrativ-in-der-digitalen-bildung/) auf Basis eines hochumstrittenen Artikels von [Michael Seemann zum zehnjährigen Bestehen von Fefes Blog](https://taz.de/Zehn-Jahre-Fefes-Blog/!5014411/) aus dem Jahre 2015. Über den Ursprungsartikel braucht man aufgrund seiner übertriebenen Pauschalisierungen nicht viel zu sagen - es handelt sich mehr um einen Rant gegen "Nerds" als um eine ernsthafte Auseinandersetzung mit dem Thema.
+Philippe Wampfler schreibt auf seinem Blog vom ["Nerd-Narrativ"](https://schulesocialmedia.com/03-03-2020
 
 Der Artikel passt dazu in Meinungsäußerungen von Axel Krommer und anderen, die explizit die "Nerdigkeit" von Argumenten herausstellen oder "Nerds" als Gruppe klassifizieren. Als Informatiker hatte ich mich gefreut, dass durch Serien wie Big-Bang-Theorie Nerds mehr im Mainstream angekommen sind, aber hier wird der Begriff verwendet um eine Personengruppe (negativ) zu klassifizieren. 
 
