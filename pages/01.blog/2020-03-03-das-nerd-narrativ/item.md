@@ -1,6 +1,6 @@
 ---
 title: "Das Nerd-Narrativ"
-date: 2020-03-03T08:50:28+02:00
+date: 03-03-2020
 draft: false
 type: post
 author: asbl

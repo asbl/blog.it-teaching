@@ -1,6 +1,6 @@
 ---
 title: "Modellieren im Informatikunterricht - Über Begriffe und Fehlvorstellungen"
-date: 2019-10-10T08:50:28+02:00
+date: 10-10-2019
 draft: false
 type: post
 author: asbl
@@ -215,7 +215,7 @@ Die [Bildungsstandards Informatik](https://www.informatikstandards.de/docs/Bildu
 
 Die Standards sind aufgeteilt in Inhaltsbereiche und Kompetenzen.Bei den Kompetenzen findet sich die Kompetenz "Modellieren und Implementieren". 
 
-* Bereits die Benennung dieser Kompetenz halte ich für problematisch, da sie die Fehlvorstellung aus dem veralteten Wasserfall-Modell unterstützt, dass man nur ein hinreichend gutes Modell aufstellen muss, dass man anschließend nur noch implementieren muss, d.h. das Modellierung und Implementierung sich voneinander trennen lassen. Diese Fehlvorstellung wird durch die Angabe des Modellierungs-Kreislaufes unterstützt ([siehe Glossar, S.21](https://www.informatikstandards.de/docs/v142_empfehlungen_kompetenzen-primarbereich_2019-01-31.pdf)), in dem "ein Problem analysiert, ein  informatisches  Modell  entworfen und auf einem Informatiksystem implementiert, getestet und bewertet wird". Aus dieser Beschreibung nähren sich sowohl die **"Wasserfall-Fehlvorstellung"** als auch die **"Modellierungskreislauf-Fehlvorstellung"**.
+* Bereits die Benennung dieser Kompetenz halte ich für problematisch, da sie die Fehlvorstellung aus dem veralteten Wasserfall-Modell unterstützt, dass man nur ein hinreichend gutes Modell aufstellen muss, dass man anschließend nur noch implementieren muss, d.h. das Modellierung und Implementierung sich voneinander trennen lassen. Diese Fehlvorstellung wird durch die Angabe des Modellierungs-Kreislaufes unterstützt ([siehe Glossar, S.21](https://www.informatikstandards.de/docs/v142_empfehlungen_kompetenzen-primarbereich_31-01-2019
 
 * In den Bildungsstandards für die Sekundarstufe wird im Glossar sogar geschrieben: "Der Übergang von einem algorithmischen Modell zu einem Programm wird als programmieren bezeichnet." Hier versteckt sich die **"Implementieren == Programmieren-Fehlvorstellung"**. 
 

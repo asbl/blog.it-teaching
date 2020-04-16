@@ -1,6 +1,6 @@
 ---
 title: "Pflichtfach Informatik"
-date: 2020-02-25T08:50:28+02:00
+date: 25-02-2020
 draft: false
 type: post
 author: asbl
@@ -12,7 +12,7 @@ tags:
   - Theorie
 ---
 
-Dieser Beitrag ist eine direkte Antwort auf einen Beitrag von [Pr. Dr. Jörn Loviscach](https://j3l7h.de/blog/2020-02-02_17_08_Warum%20ein%20Pflichtfach%20Informatik%20Unsinn%20ist) mit der Überschrift "Warum ein Pflichtfach Informatik Unsinn ist".
+Dieser Beitrag ist eine direkte Antwort auf einen Beitrag von [Pr. Dr. Jörn Loviscach](https://j3l7h.de/blog/02-02-2020
 
 Zunächst legt dieser dar, warum ein Pflichtfach Informatik nicht -wie von der Zeitschrift CT im [Editorial](https://www.heise.de/ct/artikel/IT-Sicherheit-Von-Clowns-und-Affen-4646855.html) behauptet gegen den [Buchbinder-Fail](https://www.tagesschau.de/inland/datenleak-autovermietung-buchbinder-101.html) geholfen hätte und legt da, dass die Unterstützung bröckeln sollte, sobald den Befürworter*innen auffällt, dass damit keine grundlegenden IT-Kenntnisse gemeint sind.
 

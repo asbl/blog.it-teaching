@@ -1,6 +1,6 @@
 ---
 title: "Die Autoreparatur-Metapher   "
-date: 2020-02-23T08:50:28+02:00
+date: 23-02-2020
 draft: false
 type: post
 author: asbl
