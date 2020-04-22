@@ -19,7 +19,7 @@ Viele dieser Kommunikationswege sind zur Zeit gestört, was im schlimmsten Fall 
 
 >  Schule fühlt sich [für Lehrer | Eltern | Schüler] wie ein **U-Boot** an.
 
-![dive-4219524_960_720](S:\web\grav\blog.it-teaching\pages\01.blog\2020-04-22-schule-als-uboot\dive-4219524_960_720.png)
+![dive-4219524_960_720](dive-4219524_960_720.png)
 
 Im U-Boot erledigen [Schüler | Eltern | Lehrer] ihre jeweiligen Aufgaben. Lehrer stellen Arbeitsaufträge, Schüler bearbeiten Arbeitsaufträge, Eltern unterstützen ihre Kinder. Das Uboot funktioniert (im besten Fall).
 
