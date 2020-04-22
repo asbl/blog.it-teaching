@@ -52,10 +52,10 @@ Am Ende des Sprints folgt eine **Retrospektive** in der evaluiert, was gut und w
 Wenn man sich dies anschaut wird (zumindest für mich) klar, dass Agilität an dieser Stelle das oberste Gebot für alle Prozesse und Handlungen sein sollte. Man braucht dafür kein Prozessmodell studieren. Es reicht, wenn man sich auf wenige Grundprinzipien konzentriert:
 
 * Das Team einbinden.
-* Den Prozess sichtbar machen.
-* Regelmäßiges Feedback einholen und zur Prozessoptimierung nutzen.
+* Den Prozess für alle Beteiligten sichtbar machen.
+* Regelmäßiges Feedback einholen und zur Prozessvisualisierung und -optimierung nutzen.
 
-Wenn man diese 3 Prinzipien beachtet, könnte man entgegenwirken, dass Schule wie ein U-Boot wahrgenommen wird.
+Wenn man diese 3 Prinzipien beachtet, könnte man entgegenwirken, dass Schule wie ein U-Boot wahrgenommen wird. Ich sehe bei mir selbst auch noch viel Verbesserungspotential aber mir wird zunehmend klar, wie wichtig Agilität in der aktuellen Situation ist.
 
 
 
